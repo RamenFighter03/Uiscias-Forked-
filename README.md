@@ -1,5 +1,7 @@
 # Uiscias
 
+> **This is a fork of [Uiscias by Root50199](https://github.com/Root50199/Uiscias).** All original work and credit belongs to Root50199. This fork is maintained separately and may contain additional changes.
+
 ## Up to date as of 5/21.
 
 All client modifications are against Nexon's ToS, use at your own risk. Intended solely for Mabinogi (North America).
